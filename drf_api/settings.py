@@ -46,6 +46,8 @@ INSTALLED_APPS = [
 
     'profiles', 
     'rest_framework',
+
+    'posts'
 ]
 
 CLOUDINARY_STORAGE = {
